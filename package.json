@@ -1,0 +1,22 @@
+{
+  "name": "maclev-queue-ui",
+  "version": "1.0.0",
+  "description": "UI for the job queue of maclev.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochdev/maclev-queue-ui.git"
+  },
+  "author": "Roch Devost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rochdev/maclev-queue-ui/issues"
+  },
+  "homepage": "https://github.com/rochdev/maclev-queue-ui#readme",
+  "dependencies": {
+    "kue": "^0.10.5"
+  }
+}
