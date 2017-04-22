@@ -18,6 +18,6 @@
   "homepage": "https://github.com/rochdev/maclev-queue-ui#readme",
   "private": true,
   "dependencies": {
-    "kue": "^0.10.5"
+    "kue": "^0.11.5"
   }
 }
